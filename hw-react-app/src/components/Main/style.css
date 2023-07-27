@@ -1,0 +1,28 @@
+.main {
+  padding: 20px;
+  font-family: cursive;
+}
+.title {
+  margin-bottom: 25px;
+  font-weight: 700;
+  letter-spacing: 1.44px;
+  text-align: center;
+}
+.title-articles {
+  color: #e94d35;
+  margin-bottom: 10px;
+}
+.article {
+  border-bottom: 1px solid #161513;
+  margin-bottom: 15px;
+  border: 1px solid #161513;
+  padding: 7px;
+}
+.title:hover {
+  color: #e94d35;
+}
+p{
+  text-align: center;
+  font-weight: 300;
+
+}

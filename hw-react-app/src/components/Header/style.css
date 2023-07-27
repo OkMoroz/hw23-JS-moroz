@@ -1,0 +1,30 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 36px;
+  border: 1px solid #161513;
+  margin: 5px;
+}
+.nav-link {
+  text-decoration: none;
+  border-bottom: 1px solid #161513;
+  margin-right: 15px;
+}
+.btn {
+  display: inline-block;
+  text-align: center;
+  min-width: 126px;
+  line-height: 42px;
+}
+.btn:hover {
+  background-color: #e6e3de;
+  color: #e94d35;
+  border-color: #e94d35;
+}
+.nav-link:hover {
+  text-decoration: none;
+  color: #e94d35;
+  border-color: #e94d35;
+}

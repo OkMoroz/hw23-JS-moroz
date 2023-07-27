@@ -1,0 +1,27 @@
+.sidebar {
+  background-color: #161513;
+  width: 850px;
+  padding: 20px;
+  text-align: center;
+  display: flex;
+  color: #ffff;
+  font-family: cursive;
+  letter-spacing: 1.44px;
+  flex-direction: column;
+  gap: 20px;
+}
+.title {
+  margin-bottom: 25px;
+  font-weight: 700;
+}
+.item {
+  border-bottom: 1px solid #161513;
+  margin-bottom: 15px;
+  border: 1px solid #161513;
+  padding: 7px;
+  cursor: pointer;
+}
+.item:hover {
+  color: #e94d35;
+  border-color: #e94d35;
+}
